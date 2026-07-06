@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'YouTube Sans';
+  src: url('./YouTubeSansLight.woff2') format('woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  src: url('./YouTubeSansRegular.woff2') format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  src: url('./YouTubeSansMedium.woff2') format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  src: url('./YouTubeSansSemibold.woff2') format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  src: url('./YouTubeSansBold.woff2') format('woff2');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'YouTube Sans';
+  src: url('./YouTubeSansExtrabold.woff2') format('woff2');
+  font-weight: 800;
+}
